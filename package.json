@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@google-cloud/storage": "^7.8.0",
+    "axios": "^1.6.7",
     "expo": "~49.0.15",
+    "expo-camera": "~13.4.4",
     "expo-status-bar": "~1.6.0",
+    "firebase": "^10.8.1",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.72.10",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
